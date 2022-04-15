@@ -19,7 +19,7 @@ Create a `.env` taking example from `.env-example` and Put your api key by getti
 2. `cd react-pwa-workbox-example`
 
 3. Run `npm install`
-3. Run `npm run dev`
+3. Run `npm run start`
 
 [Blog Link](https://medium.com/@imranhsayed/set-up-react-app-with-webpack-webpack-dev-server-and-babel-from-scratch-df398174446d)
 
