@@ -4,7 +4,7 @@
 
 ## Demo Site
 
-https://react-pwa-workbox-example.vercel.app/
+https://cc-pwa-films.netlify.app/
 
 * Landing page
 ![](demo/demo.png)
