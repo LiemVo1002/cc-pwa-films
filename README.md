@@ -12,7 +12,7 @@ Create a `.env` taking example from `.env-example` and Put your api key by getti
 
 ## Installation
 
-1. Clone this repo in `git clone https://github.com/imranhsayed/react-workshop`
+1. Clone this repo in `https://github.com/LiemVo1002/cc-pwa-films`
 
 2. `cd react-pwa-workbox-example`
 
