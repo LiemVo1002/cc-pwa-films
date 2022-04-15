@@ -1,6 +1,4 @@
-# [React PWA Workbox Example](https://react-pwa-workbox-example.vercel.app/)
-
-:fire: This is a React PWA Workbox Example for learning how to build React PWA.
+# [React PWA Workbox Example](https://cc-pwa-films.netlify.app/)
 
 ## Demo Site
 
