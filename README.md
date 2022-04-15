@@ -26,11 +26,6 @@ Create a `.env` taking example from `.env-example` and Put your api key by getti
 - `start` Runs webpack dev server for development ( in watch mode ) at http://localhost:8080/
 - `build` Runs webpack build
 - `serve` Runs production server at 'http://localhost:5000/'
-
-## Deployment on vercel.
-
-* Vercel config
-![](demo/vercel-config.png)
   
 ## References
 
